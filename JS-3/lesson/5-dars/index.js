@@ -14,10 +14,3 @@
 // let newStr = str.split("")
 // let setArr = new Set(newStr)
 // console.log(Array.from(setArr).join(""));
-
-
-
-
-
-
-
